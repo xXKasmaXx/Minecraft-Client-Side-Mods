@@ -2,7 +2,7 @@
  
 * Feel free to tell me if I made a mistake in this list or you have a suggestion
 * Discord: Kasma#0749
-* Website: https://github.com/xXKasmaXx/MinecraftClientSideMods
+* Website: https://github.com/xXKasmaXx/Minecraft-Client-Side-Mods
 	
 ## Infos
 
