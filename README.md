@@ -35,7 +35,7 @@
 * Illuminations : Adds fireflies and other glowing particles | [Modrinth](https://modrinth.com/mod/illuminations) | [CurseForge]() |
 * Intermission : Customizes the time between Minecraft music playing | [CurseForge]() |
 * *Inventory Hotswap'* : Allows to access your inventory slots above the selected hotbar slot by pressing a key, allows to move entire rows aswell | [CurseForge]() |
-* Inventory Profiles Next' : Allows to sort items in GUIs, has LOTS of other features | [Modrinth](https://modrinth.com/mod/inventory-profiles-next) | [CurseForge]() |
+* *Inventory Profiles Next'* : Allows to sort items in GUIs, has LOTS of other features | [Modrinth](https://modrinth.com/mod/inventory-profiles-next) | [CurseForge]() |
 * *InvMove (Fabric)'* : Allows you to move while in a GUI | [Modrinth](https://modrinth.com/mod/invmove-fabric) | [CurseForge]() |
 * Isometric Renders : Allows rendering specific areas, blocks or items and exporting them as a picture | [Modrinth](https://modrinth.com/mod/isometric-renders) | [CurseForge]() |
 * Light Overlay : Allows you to see where mobs can spawn with a simple toggle | [CurseForge]() |
