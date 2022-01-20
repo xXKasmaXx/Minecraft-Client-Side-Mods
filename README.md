@@ -20,23 +20,23 @@
 
 * AFKTape : Constantly presses down one or multiple keys for you | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/afktape) |
 * AppleSkin : Shows a preview of hunger and saturation in the tooltips as well as on your hunger bar | [Modrinth](https://modrinth.com/mod/appleskin) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin) |
-* Better Third Person' : Changes third person to be like in most Video games | [Modrinth](https://modrinth.com/mod/better-third-person) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-third-person) |
+* *Better Third Person'* : Changes third person to be like in most Video games | [Modrinth](https://modrinth.com/mod/better-third-person) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-third-person) |
 * Boat Item View : Allows you to see items in your hands when riding a boat | [Modrinth](https://modrinth.com/mod/boat-item-view) | [CurseForge]() |
 * Bobby : Allows for a greater render distance than the server by saving chunks you've been in (currently doesn't work well for me) | [Modrinth](https://modrinth.com/mod/bobby) | [CurseForge]() |
 * Chest Tracker : Allows to search for items and highlights the chest you put/found them in | [Modrinth](https://modrinth.com/mod/chest-tracker) | [CurseForge]() |
 * Clear Despawn : Makes items flash when they're about to despawn | [Modrinth](https://modrinth.com/mod/cleardespawn) | [CurseForge]() |
-* ClickThrough' : Allows you to click through signs and item frames on a chest, still accessable by shift-clicking | [Modrinth](https://modrinth.com/mod/clickthrough) | [CurseForge]() |
+* *ClickThrough'* : Allows you to click through signs and item frames on a chest, still accessable by shift-clicking | [Modrinth](https://modrinth.com/mod/clickthrough) | [CurseForge]() |
 * Cool Elytra : Rolls the camera in the direction you're steering when flying with elytra | [CurseForge]() |
 * Damage Tilt : Tilts the camera in the direction where the hit came from, used to be a vanilla feature but broke in some update long ago | [CurseForge]() |
 * Deathlog : Keeps track of your deaths: coordinates, dimension, levels, death message, irl time and date, inventory | [Modrinth](https://modrinth.com/mod/deathlog) | [CurseForge]() |
 * Effective : Adds splash animations for water aswell as waterfalls | [CurseForge]() |
-* Elytra Hopping' : Allows to do the 'elytra jump' easier, works better on some servers than others | [CurseForge]() |
+* *Elytra Hopping'* : Allows to do the 'elytra jump' easier, works better on some servers than others | [CurseForge]() |
 * Falling Leaves : Adds falling leaf particles under leaves, highly configurable | [Modrinth](https://modrinth.com/mod/fallingleaves) | [CurseForge]() |
 * Illuminations : Adds fireflies and other glowing particles | [Modrinth](https://modrinth.com/mod/illuminations) | [CurseForge]() |
 * Intermission : Customizes the time between Minecraft music playing | [CurseForge]() |
-* Inventory Hotswap' : Allows to access your inventory slots above the selected hotbar slot by pressing a key, allows to move entire rows aswell | [CurseForge]() |
+* *Inventory Hotswap'* : Allows to access your inventory slots above the selected hotbar slot by pressing a key, allows to move entire rows aswell | [CurseForge]() |
 * Inventory Profiles Next' : Allows to sort items in GUIs, has LOTS of other features | [Modrinth](https://modrinth.com/mod/inventory-profiles-next) | [CurseForge]() |
-* InvMove (Fabric)' : Allows you to move while in a GUI | [Modrinth](https://modrinth.com/mod/invmove-fabric) | [CurseForge]() |
+* *InvMove (Fabric)'* : Allows you to move while in a GUI | [Modrinth](https://modrinth.com/mod/invmove-fabric) | [CurseForge]() |
 * Isometric Renders : Allows rendering specific areas, blocks or items and exporting them as a picture | [Modrinth](https://modrinth.com/mod/isometric-renders) | [CurseForge]() |
 * Light Overlay : Allows you to see where mobs can spawn with a simple toggle | [CurseForge]() |
 * Litematica : Allows to render and save schematics of builds (useful for farms) and rebuilding them easily | [CurseForge]() |
@@ -47,7 +47,7 @@
 * MultiConnect : Allows joining servers running on older version than your client, client 1.18.1 => server 1.9-1.18.1 | [Modrinth](https://modrinth.com/mod/multiconnect) | [CurseForge]() |
 * Nicephore : Take higher resoluted screenshots, adds screenshot GUI | [CurseForge]() |
 * Not Enough Crashes : Puts you back to mainscreen when Minecraft crashes, tries to find causing mods | [Modrinth](https://modrinth.com/mod/notenoughcrashes) | [CurseForge]() |
-* Perspective Mod Redux' : Allows for you to move your camera freely around your players head in an F5 kind of mode | [Modrinth](https://modrinth.com/mod/perspective-mod-redux) | [CurseForge]() |
+* *Perspective Mod Redux'* : Allows for you to move your camera freely around your players head in an F5 kind of mode | [Modrinth](https://modrinth.com/mod/perspective-mod-redux) | [CurseForge]() |
 * Presence Footsteps : Adds more unique walking, jumping sounds depending on what you stand on | [Modrinth](https://modrinth.com/mod/presence-footsteps) | [CurseForge]() |
 * Seamless Loading Screen : Takes a temporary screenshot when leaving a world and shows it when loading back in | [Modrinth](https://modrinth.com/mod/seamless-loading-screen) | [CurseForge]() |
 * Skin Swapper : Allows you to change your skin in Minecraft | [Modrinth](https://modrinth.com/mod/skinswapper) | [CurseForge]() |
@@ -55,11 +55,11 @@
 * Sound Physics : Adds sound physics as reverb and muffling | [Modrinth](https://https://modrinth.com/mod/soundphysics) | [CurseForge]() |
 * Status Effect Timer : Adds a timer how long the effect will stay without needing to go into inventory | [Modrinth](https://modrinth.com/mod/statuseffecttimer) | [CurseForge]() |
 * TNTTime : Shows a timer above TNT to see when it explodes | [Modrinth](https://modrinth.com/mod/tnttime) | [CurseForge]() |
-* Tweakeroo' : Adds A LOT of tweaks and features which I'm unable to list but there's a list on the mod's website | [CurseForge]() |
-* Unsuspicious Stew' : Shows what effect an unsus stew will have | [CurseForge]() |
+* *Tweakeroo'* : Adds A LOT of tweaks and features which I'm unable to list but there's a list on the mod's website | [CurseForge]() |
+* *Unsuspicious Stew'* : Shows what effect an unsus stew will have | [CurseForge]() |
 * Visible Barries : Adds a toggle to see barriers, structure blocks and light blocks | [CurseForge]() |
 * WTHIT : Shows what block or entity you're looking at | [Modrinth](https://modrinth.com/mod/wthit) | [CurseForge]() |
-* Xaero's Minimap' : Adds a minimap with entities | [CurseForge]() |
+* *Xaero's Minimap'* : Adds a minimap with entities | [CurseForge]() |
 * Xaero's World Map : Adds a Worldmap which shows all chunks you've ever rendered on that world | [CurseForge]() |
 
 
