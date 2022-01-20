@@ -20,6 +20,7 @@ mod' = Risky on servers! Might need confirmation from the owner or might not wor
 There might be more Dependencies but most mod websites inform about them
 
 
+
 -Various:
 	
 	AFKTape : Constantly presses down one or multiple keys for you [curseforge]
