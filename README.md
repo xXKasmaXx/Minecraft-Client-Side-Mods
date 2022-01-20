@@ -1,20 +1,23 @@
 # Some of the best fabric client side mods that work on (almost) every server v1.0.2
  
+## Contact
+
 * Feel free to tell me if I made a mistake in this list or you have a suggestion
+* Open an [Issue](https://github.com/xXKasmaXx/Minecraft-Client-Side-Mods/issues)
 * Discord: Kasma#0749
 * Website: https://github.com/xXKasmaXx/Minecraft-Client-Side-Mods
-	
+
+
 ## Infos
 
 * All of the following mods are for fabric (some mods have a forge version) and support to 1.18.1 (allthough some only support 1.18 on GitHub)
-* Most mods that are avaible on https://www.modrinth.com are also avaible on https://www.curseforge.com
-* *mod'* = Risky on servers! Might need confirmation from the owner or might not work
-* There might be more Dependencies but most mod websites inform about them
-
+* Most mods that are avaible on [Modrinth](https://www.modrinth.com) are also avaible on [CurseForge](https://www.curseforge.com)
+* ***mod'* = Risky on servers! Might need confirmation from the owner or might not work**
+* **There might be more Dependencies but most mod websites inform about them**
 
 
 ## Various:
-	
+
 * AFKTape : Constantly presses down one or multiple keys for you [curseforge]
 * AppleSkin : Shows a preview of hunger and saturation in the tooltips as well as on your hunger bar [modrinth]
 * Better Third Person' : Changes third person to be like in most Video games [modrinth]	
@@ -58,11 +61,10 @@
 * Wthit : Shows what block or entity you're looking at [modrinth]
 * Xaero's Minimap' : Adds a minimap with entities [curseforge]	
 * Xaero's World Map : Adds a Worldmap which shows all chunks you've ever rendered on that world [curseforge]
-	
-	
+
+
 ## Performance:
 
-	
 * Dynamic FPS : Caps FPS when Minecraft is running in the background which makes your computer run better when not in Minecraft [modrinth]
 * Enhanced Block Entities : Makes block entities (chests, hoppers, beds etc) less lagier without loosing the animation [modrinth]
 * EntityCulling-Fabric : Only loads entities that are ACTUALLY visible [curseforge]
@@ -72,23 +74,23 @@
 * Lithium : Performance improvements [modrinth]
 * Sodium : Performance improvemnts A LOT [modrinth]	
 * Starlight : Improves the lighting engine (better than phosphor) [modrinth]
-	
-	
+
+
 ## Optifine alternatives:
-	
-*(LambdAurora has an exclusive list for this https://lambdaurora.dev/optifine_alternatives/ )*
+
+*[LambdAurora's List of optifine alternatives](https://lambdaurora.dev/optifine_alternatives/)*
 
 * Animatica : Allows for animating many textures using optifines's format [modrinth]
 * Continuity : Allows connect block textures in MCPatcher/optifine format, comes with resourcepack to emulate optifine's [modrinth]
 * Custom Entity Models : Allows custom entity models, tries to implement full optifine format support (not working well with every resourcepack) [modrinth]
-* Indium : Implements the Fabric Rendering API to Sodium, NEEDED BY A LOT OF MODS HERE [modrinth]
+* Indium : Implements the Fabric Rendering API to Sodium, **NEEDED BY A LOT OF MODS HERE** [modrinth]
 * Iris : Implements shaders with way higher FPS and loading speed than optifine, supports most shaders made for optifine [modrinth]
 * LambdaBetterGrass : Allows connected grass, even with transitions if wanted [modrinth]
 * LambDynamicLights : Adds dynamic lighting (held torch emits light around you) [modrinth]
 * Ok Zoomer : Highly configurable zoom mod [modrinth]
 * Puzzle : Adds some optifine features and allows an easy configuration screen for other optifine alternative mods [modrinth]
-	
-	
+
+
 ## Dependencies:
 
 * Fabric API [modrinth]
