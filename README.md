@@ -10,7 +10,7 @@
 
 ## Infos
 
-* All of the following mods are for fabric (some mods have a forge version) and support to 1.18.1 (allthough some only support 1.18 on GitHub)
+* All of the following mods are for fabric and support up to 1.18.1 (some might be WIP for 1.18 but you should find them in the mod's GitHub)
 * Most mods that are avaible on [Modrinth](https://www.modrinth.com) are also avaible on [CurseForge](https://www.curseforge.com)
 * ***mod'* = Risky on servers! Might need confirmation from the owner or might not work**
 * **There might be more Dependencies but most mod websites inform about them**
