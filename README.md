@@ -11,7 +11,7 @@
 ## Infos
 
 * All of the following mods are for fabric and support up to 1.18.1 (some might be WIP for 1.18 but you should find them in the mod's GitHub)
-* Most mods that are avaible on [Modrinth](https://www.modrinth.com) are also avaible on [CurseForge](https://www.curseforge.com)
+* Most mods that are avaible on [Modrinth](https://www.modrinth.com) are also avaible on [CurseForge](https://www.curseforge.com/minecraft/mc-mods)
 * ***mod'* = Risky on servers! Might need confirmation from the owner or might not work**
 * **There might be more Dependencies but most mod websites inform about them**
 
