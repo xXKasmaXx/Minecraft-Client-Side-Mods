@@ -15,7 +15,7 @@
 * ***mod'* = Risky on servers! Might need confirmation from the owner or might not work**
 * **There might be more Dependencies but most mod websites inform about them**
 
- | [CurseForge]() |
+
 ## Various:
 
 * AFKTape : Constantly presses down one or multiple keys for you | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/afktape) |
