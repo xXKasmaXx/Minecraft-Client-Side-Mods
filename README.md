@@ -1,4 +1,4 @@
-# Some of the best fabric client side mods that work on (almost) every server v1.0.5
+# Some of the best fabric client side mods that work on (almost) every server v1.0.6
  
 ## Contact
 
@@ -22,7 +22,7 @@
 * AppleSkin : Shows a preview of hunger and saturation in the tooltips as well as on your hunger bar | [Modrinth](https://modrinth.com/mod/appleskin) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin) |
 * *Better Third Person'* : Changes third person to be like in most Video games | [Modrinth](https://modrinth.com/mod/better-third-person) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-third-person) |
 * Boat Item View : Allows you to see items in your hands when riding a boat | [Modrinth](https://modrinth.com/mod/boat-item-view) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/boat-item-view) |
-* Bobby : Allows for a greater render distance than the server by saving chunks you've been in (currently doesn't work well for me) | [Modrinth](https://modrinth.com/mod/bobby) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bobby) |
+* Bobby : Allows for a greater render distance than the server by saving chunks you've been in | [Modrinth](https://modrinth.com/mod/bobby) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bobby) |
 * Chest Tracker : Allows to search for items and highlights the chest you put/found them in | [Modrinth](https://modrinth.com/mod/chest-tracker) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chest-tracker) |
 * Clear Despawn : Makes items flash when they're about to despawn | [Modrinth](https://modrinth.com/mod/cleardespawn) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric) |
 * *ClickThrough'* : Allows you to click through signs and item frames on a chest, still accessable by shift-clicking | [Modrinth](https://modrinth.com/mod/clickthrough) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/clickthrough) |
@@ -66,6 +66,8 @@
 
 ## Performance:
 
+* Alternate Current : An efficient and non-locational redstone dust implementation | [Modrinth](https://modrinth.com/mod/alternate-current) |
+* Concurrent Chunk Management Engine : A Fabric mod designed to improve the chunk performance of Minecraft | [Modrinth](https://modrinth.com/mod/c2me-fabric) |
 * Dynamic FPS : Caps FPS when Minecraft is running in the background which makes your computer run better when not in Minecraft | [Modrinth](https://modrinth.com/mod/dynamic-fps) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) |
 * Enhanced Block Entities : Makes block entities (chests, hoppers, beds etc) less lagier without loosing the animation | [Modrinth](https://modrinth.com/mod/ebe) | [CurseForge]() |
 * EntityCulling-Fabric : Only loads entities that are ACTUALLY visible | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) |
@@ -94,10 +96,11 @@
 
 ## Dependencies:
 
-* Fabric API | [Modrinth](https://modrinth.com/mod/fabric-api) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api) |
 * Architectury | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) |
 * Cloth API | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-api) |
 * Cloth Config API | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config) |
+* CompleteConfig | [Modrinth](https://modrinth.com/mod/completeconfig) |
+* Fabric API | [Modrinth](https://modrinth.com/mod/fabric-api) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-api) |
 * Fabric Language Kotlin | [Modrinth](https://modrinth.com/mod/fabric-language-kotlin) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) |
 * MaLiLib | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/malilib) |
 	
