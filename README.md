@@ -51,8 +51,8 @@
 * Presence Footsteps : Adds more unique walking, jumping sounds depending on what you stand on | [Modrinth](https://modrinth.com/mod/presence-footsteps) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) |
 * Seamless Loading Screen : Takes a temporary screenshot when leaving a world and shows it when loading back in | [Modrinth](https://modrinth.com/mod/seamless-loading-screen) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen) |
 * Skin Swapper : Allows you to change your skin in Minecraft | [Modrinth](https://modrinth.com/mod/skinswapper) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-swapper) |
-* Smooth Swapping : Adds animations when items are moved in a GUI | [Modrinth](https://https://modrinth.com/mod/smooth-swapping) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-swapping) |
-* Sound Physics : Adds sound physics as reverb and muffling | [Modrinth](https://https://modrinth.com/mod/soundphysics) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric) |
+* Smooth Swapping : Adds animations when items are moved in a GUI | [Modrinth](https://modrinth.com/mod/smooth-swapping) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-swapping) |
+* Sound Physics : Adds sound physics as reverb and muffling | [Modrinth](https://modrinth.com/mod/soundphysics) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric) |
 * Status Effect Timer : Adds a timer how long the effect will stay without needing to go into inventory | [Modrinth](https://modrinth.com/mod/statuseffecttimer) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/status-effect-timer) |
 * TNTTime : Shows a timer above TNT to see when it explodes | [Modrinth](https://modrinth.com/mod/tnttime) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tnttime) |
 * *Tweakeroo'* : Adds A LOT of tweaks and features which I'm unable to list but there's a list on the mod's website | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) |
