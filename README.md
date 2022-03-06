@@ -1,4 +1,4 @@
-# Some of the best fabric client side mods that work on (almost) every server v1.0.6
+# Some of the best fabric client side mods that work on (almost) every server v1.0.7
  
 ## Contact
 
