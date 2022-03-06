@@ -18,11 +18,13 @@
 
 ## Various:
 
+* AdvancementInfo : Show more information about advancement requirements | [Modrinth](https://modrinth.com/mod/advancementinfo) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) |
 * AFKTape : Constantly presses down one or multiple keys for you | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/afktape) |
 * AppleSkin : Shows a preview of hunger and saturation in the tooltips as well as on your hunger bar | [Modrinth](https://modrinth.com/mod/appleskin) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin) |
 * *Better Third Person'* : Changes third person to be like in most Video games | [Modrinth](https://modrinth.com/mod/better-third-person) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-third-person) |
 * Boat Item View : Allows you to see items in your hands when riding a boat | [Modrinth](https://modrinth.com/mod/boat-item-view) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/boat-item-view) |
 * Bobby : Allows for a greater render distance than the server by saving chunks you've been in | [Modrinth](https://modrinth.com/mod/bobby) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bobby) |
+* Borderless Mining : Changes Fullscreen to use a borderless window | [Modrinth](https://modrinth.com/mod/borderless-mining) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) |
 * Chest Tracker : Allows to search for items and highlights the chest you put/found them in | [Modrinth](https://modrinth.com/mod/chest-tracker) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chest-tracker) |
 * Clear Despawn : Makes items flash when they're about to despawn | [Modrinth](https://modrinth.com/mod/cleardespawn) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric) |
 * *ClickThrough'* : Allows you to click through signs and item frames on a chest, still accessable by shift-clicking | [Modrinth](https://modrinth.com/mod/clickthrough) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/clickthrough) |
@@ -49,11 +51,13 @@
 * Not Enough Crashes : Puts you back to mainscreen when Minecraft crashes, tries to find causing mods | [Modrinth](https://modrinth.com/mod/notenoughcrashes) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) |
 * *Perspective Mod Redux'* : Allows for you to move your camera freely around your players head in an F5 kind of mode | [Modrinth](https://modrinth.com/mod/perspective-mod-redux) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/perspective-mod-redux) |
 * Presence Footsteps : Adds more unique walking, jumping sounds depending on what you stand on | [Modrinth](https://modrinth.com/mod/presence-footsteps) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/presence-footsteps) |
+* Roughly Enough Items (REI) : Adds a library of all items, shows recipes and uses for all items, works with mods and is fully customizable | [CurseForge](Adds a library of all items, shows recipes and uses for all items, works with mods and is fully customizable) |
 * Seamless Loading Screen : Takes a temporary screenshot when leaving a world and shows it when loading back in | [Modrinth](https://modrinth.com/mod/seamless-loading-screen) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen) |
 * Skin Swapper : Allows you to change your skin in Minecraft | [Modrinth](https://modrinth.com/mod/skinswapper) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-swapper) |
 * Smooth Swapping : Adds animations when items are moved in a GUI | [Modrinth](https://modrinth.com/mod/smooth-swapping) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-swapping) |
 * Sound Physics : Adds sound physics as reverb and muffling | [Modrinth](https://modrinth.com/mod/soundphysics) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric) |
 * Status Effect Timer : Adds a timer how long the effect will stay without needing to go into inventory | [Modrinth](https://modrinth.com/mod/statuseffecttimer) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/status-effect-timer) |
+* *StepUp(Next)'* : Increase your step height - like autojump but without the disadvantages | [Modrinth](https://modrinth.com/mod/stepup) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/stepupnext) |
 * TNTTime : Shows a timer above TNT to see when it explodes | [Modrinth](https://modrinth.com/mod/tnttime) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tnttime) |
 * *Tweakeroo'* : Adds A LOT of tweaks and features which I'm unable to list but there's a list on the mod's website | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tweakeroo) |
 * Unsuspicious Stew : Shows what effect an unsus stew will have | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/unsuspicious-stew) |
