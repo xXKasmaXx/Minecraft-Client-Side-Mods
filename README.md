@@ -1,4 +1,4 @@
-# Some of the best fabric client side mods that work on (almost) every server v1.0.7
+# Some of the best fabric client side mods that work on (almost) every server v1.0.8
  
 ## Contact
 
@@ -10,7 +10,7 @@
 
 ## Infos
 
-* All of the following mods are for fabric and support up to 1.18.1 (some might be WIP for 1.18 but you should find them in the mod's GitHub)
+* All of the following mods are for fabric and most support up to 1.18.2 (All of them should have a working 1.18.1 version)
 * I recommend downloading from [Modrinth](https://modrinth.com) but some mods are updated more on [CurseForge](https://www.curseforge.com/minecraft/mc-mods)
 * ***mod'* = Risky on servers! Might need confirmation from the owner or might not work**
 * **There might be more Dependencies but most mod websites inform about them**
@@ -25,6 +25,8 @@
 * Boat Item View : Allows you to see items in your hands when riding a boat | [Modrinth](https://modrinth.com/mod/boat-item-view) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/boat-item-view) |
 * Bobby : Allows for a greater render distance than the server by saving chunks you've been in | [Modrinth](https://modrinth.com/mod/bobby) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bobby) |
 * Borderless Mining : Changes Fullscreen to use a borderless window | [Modrinth](https://modrinth.com/mod/borderless-mining) | [Curseforge](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) |
+* Carpet : Take full control over your vanilla game | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/carpet) |
+* Chat Heads : Displays an icon of the player's face next to his messages | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chat-heads) |
 * Chest Tracker : Allows to search for items and highlights the chest you put/found them in | [Modrinth](https://modrinth.com/mod/chest-tracker) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chest-tracker) |
 * Clear Despawn : Makes items flash when they're about to despawn | [Modrinth](https://modrinth.com/mod/cleardespawn) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric) |
 * *ClickThrough'* : Allows you to click through signs and item frames on a chest, still accessable by shift-clicking | [Modrinth](https://modrinth.com/mod/clickthrough) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/clickthrough) |
@@ -38,6 +40,7 @@
 * Intermission : Customizes the time between Minecraft music playing | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/intermission) |
 * *Inventory Hotswap'* : Allows to access your inventory slots above the selected hotbar slot by pressing a key, allows to move entire rows aswell | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-hotswap) |
 * *Inventory Profiles Next'* : Allows to sort items in GUIs, has LOTS of other features | [Modrinth](https://modrinth.com/mod/inventory-profiles-next) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next) |
+* Inventory Tabs (updated) : Mod to access nearby GUIs without leaving your inventory | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/inventory-tabs-updated) |
 * *InvMove'* : Allows you to move while in a GUI | [Modrinth](https://modrinth.com/mod/invmove-fabric) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/invmove-fabric) |
 * Isometric Renders : Allows rendering specific areas, blocks or items and exporting them as a picture | [Modrinth](https://modrinth.com/mod/isometric-renders) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/isometric-renders) |
 * Light Overlay : Allows you to see where mobs can spawn with a simple toggle | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/light-overlay) |
@@ -54,6 +57,7 @@
 * Roughly Enough Items (REI) : Adds a library of all items, shows recipes and uses for all items, works with mods and is fully customizable | [CurseForge](Adds a library of all items, shows recipes and uses for all items, works with mods and is fully customizable) |
 * Seamless Loading Screen : Takes a temporary screenshot when leaving a world and shows it when loading back in | [Modrinth](https://modrinth.com/mod/seamless-loading-screen) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/seamless-loading-screen) |
 * Skin Swapper : Allows you to change your skin in Minecraft | [Modrinth](https://modrinth.com/mod/skinswapper) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/skin-swapper) |
+* Slyde : Allows dragging sliders further than intended | [Modrinth](https://modrinth.com/mod/slyde) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/slyde) |
 * Smooth Swapping : Adds animations when items are moved in a GUI | [Modrinth](https://modrinth.com/mod/smooth-swapping) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/smooth-swapping) |
 * Sound Physics : Adds sound physics as reverb and muffling | [Modrinth](https://modrinth.com/mod/soundphysics) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric) |
 * Status Effect Timer : Adds a timer how long the effect will stay without needing to go into inventory | [Modrinth](https://modrinth.com/mod/statuseffecttimer) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/status-effect-timer) |
@@ -75,7 +79,7 @@
 * Dynamic FPS : Caps FPS when Minecraft is running in the background which makes your computer run better when not in Minecraft | [Modrinth](https://modrinth.com/mod/dynamic-fps) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) |
 * Enhanced Block Entities : Makes block entities (chests, hoppers, beds etc) less lagier without loosing the animation | [Modrinth](https://modrinth.com/mod/ebe) | [CurseForge]() |
 * EntityCulling-Fabric : Only loads entities that are ACTUALLY visible | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) |
-* Hydrogen : Makes Minecraft more RAM efficient | [Modrinth](https://modrinth.com/mod/hydrogen) |
+* FerriteCore : Memory usage optimizations (better than [Hydrogen](https://modrinth.com/mod/hydrogen)) | [Modrinth](https://modrinth.com/mod/ferrite-core) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) |
 * Krypton : Optimizes the Minecraft networking stack and entity tracker | [Modrinth](https://modrinth.com/mod/krypton) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/krypton) |
 * LazyDFU : Makes Minecraft startup way faster | [Modrinth](https://modrinth.com/mod/lazydfu) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lazydfu) |
 * Lithium : An optimization mod for Minecraft which improves server performance significantly | [Modrinth](https://modrinth.com/mod/lithiumm) | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/lithium) |
